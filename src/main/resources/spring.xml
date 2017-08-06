@@ -52,5 +52,5 @@
     <!--<bean id="exceptionHandlerExceptionResolver" class="com.junqiang.www.exception.DefaultExceptionHandler">-->
     <!--</bean>-->
 
-    <!--<import resource="classpath:spring-shiro.xml"/>-->
+    <import resource="classpath:spring-shiro.xml"/>
 </beans>
